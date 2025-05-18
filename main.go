@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"cmd/netbirdfunc"
+	"netbirdadsync\netbirdfunc"
 )
 
 func main() {

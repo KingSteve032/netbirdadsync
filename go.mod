@@ -1,3 +1,3 @@
-module github.com/KingSteve032/netbirdadsync/cmd
+module netbirdadsync
 
 go 1.23.4
